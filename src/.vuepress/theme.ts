@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/osc@0.25x.png",
 
-  repo: "SCUTOSC/osc-get-started",
+  repo: "SCUTOSC/osc-guide",
 
   docsDir: "src",
 
