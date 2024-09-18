@@ -1,5 +1,5 @@
 ---
-title: "VSCode C++项目 Windows环境 从零配置保姆指南"
+title: "C++ on Windows"
 date: 2024-09-13T14:04:21+08:00
 author: { name: Samuka007, url: https://github.com/Samuka007 }
 categories:
@@ -8,8 +8,11 @@ tags:
     - "VSCode"
     - "C++"
     - "Windows"
-summary: 本篇指南会带你从零开始，在完全干净的Windows环境中，配置一个足够上项目规模的，基于VSCode的，现代的C++开发环境。
+summary: 本篇指南会带你从零开始，在完全干净的Windows环境中，配置一种足够上项目规模的，基于VSCode的，现代的C++开发环境。
 ---
+
+:::tip VSCode C++项目 Windows环境 从零配置保姆指南
+:::
 
 本篇指南会带你从零开始，在完全干净的Windows环境中，配置一个足够上项目规模的，基于VS Code的，现代的C++开发环境。
 

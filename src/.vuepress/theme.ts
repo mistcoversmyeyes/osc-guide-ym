@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://guide.scutosc.cn/",
 
   author: {
     name: "SCUT Open Source Community",
-    url: "https://github.com/SCUTOSC",
+    url: "https://github.com/SCUTOSC/",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -110,7 +110,7 @@ export default hopeTheme({
       // katex: true,
 
       // 在启用之前安装 mathjax-full
-      // mathjax: true,
+      mathjax: true,
 
       // 在启用之前安装 mermaid
       // mermaid: true,
