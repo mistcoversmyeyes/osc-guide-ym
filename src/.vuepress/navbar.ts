@@ -10,6 +10,7 @@ export default navbar([
     prefix: "/guide/",
     children: [
       "windows_cpp",
+      "student/",
       { text: "更多内容", icon: "ellipsis", link: "" }
       // {
       //   text: "Bar",
@@ -35,4 +36,9 @@ export default navbar([
     icon: "laptop-code",
     link: "https://lab.scutosc.cn",
   },
+  {
+    text: "DragonOS",
+    icon: "diagram-project",
+    link: "https://dragonos.org",
+  }
 ]);
