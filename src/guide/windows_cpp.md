@@ -115,7 +115,7 @@ import { useRoute } from 'vuepress/client'
 onMounted(() => {
   window.DiscourseEmbed = {
     discourseUrl: 'https://bbs.scutosc.cn/', 
-    discourseEmbedUrl: 'https://guide.scutosc.cn' + useRoute().path,
+    discourseEmbedUrl: window.location.origin + useRoute().path.split('#')[0],
     // className: 'CLASS_NAME',
   };
   
