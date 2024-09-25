@@ -110,11 +110,12 @@ TODO
 
 <script setup>
 import { onMounted } from 'vue'
+import { useRoute } from 'vuepress/client'
 
 onMounted(() => {
   window.DiscourseEmbed = {
     discourseUrl: 'https://bbs.scutosc.cn/', 
-    discourseEmbedUrl: window.location.href,
+    discourseEmbedUrl: 'https://guide.scutosc.cn' + useRoute().path,
     // className: 'CLASS_NAME',
   };
   
