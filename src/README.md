@@ -9,7 +9,7 @@ heroImage: /osc_home.png
 #   background-attachment: fullscreen
 heroText: OSC Guide
 heroFullScreen: false
-tagline: 由华工开源俱乐部，携手众学生，共同倾心打造。
+tagline: 由华工开源俱乐部，携手众学生，共同倾心打造的CS指南。从入门到进阶，不论应试、就业、科研，我们总以发展为导向。
 actions:
   - text: 开始阅读
     icon: lightbulb
