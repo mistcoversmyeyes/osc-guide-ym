@@ -25,4 +25,4 @@ TODO
 
 这种时候，如果你能动动小手，点击 `在GitHub上编辑此页`，提交一个 Pull Request，那么你就是我们的英雄了！
 
-<Discourse />
+<DiscourseComments />
