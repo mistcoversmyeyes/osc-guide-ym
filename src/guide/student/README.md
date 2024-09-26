@@ -1,6 +1,6 @@
 ---
 title: 学生优惠
-icon: gift
+icon: mdi:gift
 # author: 
 ---
 

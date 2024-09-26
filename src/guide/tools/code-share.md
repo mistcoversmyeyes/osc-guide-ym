@@ -1,6 +1,6 @@
 ---
-title: 代码分享
-icon: code
+title: 代码分享工具
+icon: mdi:code
 author: { name: Samuka007, url: https://github.com/Samuka007 }
 ---
 

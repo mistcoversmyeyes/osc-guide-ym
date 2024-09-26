@@ -1,6 +1,6 @@
 ---
 title: Office, Windows 正版化 (SCUT)
-icon: "fa-brands fa-microsoft"
+icon: mdi:microsoft
 ---
 ::: tip
 点此进入 [华南理工大学 微软正版化服务平台](https://msweb.scut.edu.cn/)

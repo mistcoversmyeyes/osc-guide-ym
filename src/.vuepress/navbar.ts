@@ -6,12 +6,12 @@ export default navbar([
   // "/demo/",
   {
     text: "Get Started",
-    icon: "lightbulb",
+    icon: "fa-solid:lightbulb",
     prefix: "/guide/",
     children: [
       "windows_cpp",
       "student/",
-      { text: "更多内容", icon: "ellipsis", link: "" }
+      { text: "更多内容", icon: "octicon:ellipsis-16", link: "" }
       // {
       //   text: "Bar",
       //   icon: "lightbulb",
@@ -28,17 +28,17 @@ export default navbar([
   },
   {
     text: "编写指南",
-    icon: "book",
+    icon: "material-symbols:book",
     link: "/demo/",
   },
   {
     text: "OSC Lab",
-    icon: "laptop-code",
+    icon: "fa-solid:laptop-code",
     link: "https://lab.scutosc.cn",
   },
   {
     text: "DragonOS",
-    icon: "diagram-project",
+    icon: "fa-solid:project-diagram",
     link: "https://dragonos.org",
   }
 ]);

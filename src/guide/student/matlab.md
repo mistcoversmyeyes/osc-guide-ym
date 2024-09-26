@@ -1,6 +1,6 @@
 ---
 title: Matlab (SCUT)
-icon: calculator
+icon: vscode-icons:file-type-matlab
 ---
 
 ::: tip

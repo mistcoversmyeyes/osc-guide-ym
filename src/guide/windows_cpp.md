@@ -1,5 +1,6 @@
 ---
 title: "C++ on Windows"
+icon: vscode-icons:file-type-cpp3
 date: 2024-09-13T14:04:21+08:00
 author: { name: Samuka007, url: https://github.com/Samuka007 }
 categories:

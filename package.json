@@ -11,6 +11,7 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
+    "@iconify/vue": "^4.1.2",
     "@vuepress/bundler-vite": "2.0.0-rc.15",
     "mathjax-full": "^3.2.2",
     "vue": "^3.5.6",
@@ -20,6 +21,7 @@
   "packageManager": "pnpm@9.10.0+sha512.73a29afa36a0d092ece5271de5177ecbf8318d454ecd701343131b8ebc0c1a91c487da46ab77c8e596d6acf1461e3594ced4becedf8921b074fbd8653ed7051c",
   "dependencies": {
     "@vuepress/plugin-feed": "2.0.0-rc.44",
-    "@vuepress/plugin-pwa": "2.0.0-rc.44"
+    "@vuepress/plugin-pwa": "2.0.0-rc.44",
+    "mathjax": "^3.2.2"
   }
 }

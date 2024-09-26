@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/SCUTOSC/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "/osc_logo.png",
   favicon: "/osc_favicon.ico",
@@ -111,7 +111,7 @@ export default hopeTheme({
       // katex: true,
 
       // 在启用之前安装 mathjax-full
-      // mathjax: true,
+      mathjax: true,
 
       // 在启用之前安装 mermaid
       // mermaid: true,

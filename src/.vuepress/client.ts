@@ -1,11 +1,10 @@
-// import { defineClientConfig } from 'vuepress/client'
+// import { defineClientConfig, useRoute } from 'vuepress/client'
 // import { onMounted } from 'vue'
-
-// Extend the Window interface
 
 // export default defineClientConfig({
 //     setup() {
-        
+//         // useRoute().path
+        // window.location.href
 //     }
 // })
 

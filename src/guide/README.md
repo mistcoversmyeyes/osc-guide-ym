@@ -1,6 +1,6 @@
 ---
 title: Get Started
-icon: lightbulb
+icon: mdi:book-open
 ---
 
 <Catalog />
