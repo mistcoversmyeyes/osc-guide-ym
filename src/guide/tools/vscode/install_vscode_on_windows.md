@@ -37,3 +37,5 @@ summary: Install Visual Studio Code on Windows
 <!-- link to using_vscode -->
 
 [WinGet]: https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+<DiscourseComments />

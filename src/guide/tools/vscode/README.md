@@ -4,3 +4,5 @@ icon: "fa-solid fa-code"
 ---
 
 <Catalog />
+
+<DiscourseComments />

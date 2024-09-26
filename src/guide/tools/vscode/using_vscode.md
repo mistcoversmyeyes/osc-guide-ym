@@ -23,3 +23,5 @@ draft: false
 
 > - [Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/workspaces)
 > - 中文：[Visual Studio Code 中的工作区](https://vscode.github.net.cn/docs/editor/workspaces)
+
+<DiscourseComments />

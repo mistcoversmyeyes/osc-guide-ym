@@ -39,3 +39,5 @@ SCUT学生可以 **下载学校提供的微软正版软件**，并 **通过学�
 #### MacOS
 
 [Microsoft_Office_16.59.22031300_Installer.pkg](https://mswebdl.scut.edu.cn/download/office/Microsoft_Office_16.59.22031300_Installer.pkg)
+
+<DiscourseComments />

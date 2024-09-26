@@ -1,12 +1,11 @@
-// import { defineClientConfig, useRoute } from 'vuepress/client'
-// import { onMounted } from 'vue'
+import { defineClientConfig } from 'vuepress/client'
+import DiscourseComments from './component/DiscourseComments.vue'
 
-// export default defineClientConfig({
-//     setup() {
-//         // useRoute().path
-        // window.location.href
-//     }
-// })
+export default defineClientConfig({
+    enhance({ app }) {
+      app.component('DiscourseComments', DiscourseComments)
+    },
+})
 
 declare global {
     interface Window {

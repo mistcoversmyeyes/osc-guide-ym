@@ -23,3 +23,5 @@ author: { name: Samuka007, url: https://github.com/Samuka007 }
 [Code Explorer](https://compiler-explorer.com) from [godbolt](https://godbolt.org)，是一个在线编译器，可以将 C/C++ 代码转换为汇编代码，查看结果，支持多种编译器、优化等设置，还能生成链接分享。
 
 ![compiler-explorer.com](https://github.com/compiler-explorer/compiler-explorer/raw/main/docs/images/brief_overview.png)
+
+<DiscourseComments />

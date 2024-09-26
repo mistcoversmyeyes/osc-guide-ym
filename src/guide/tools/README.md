@@ -4,3 +4,5 @@ icon: mdi:toolbox
 ---
 
 <Catalog />
+
+<DiscourseComments />

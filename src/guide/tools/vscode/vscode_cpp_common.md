@@ -187,3 +187,5 @@ $ xmake project -k compile_commands .vscode
 ```
 
 如果配置后，还是没生效，可以尝试重启 vscode 和 clangd 进程，再验证下。
+
+<DiscourseComments />
