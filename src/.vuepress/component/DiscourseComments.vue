@@ -10,7 +10,7 @@ onMounted(() => {
   window.DiscourseEmbed = {
     discourseUrl: 'https://bbs.scutosc.cn/', 
     discourseEmbedUrl: window.location.origin + useRoute().path.split('#')[0],
-    className: 'body',
+    className: 'vp-page',
   };
   
   (function() {
