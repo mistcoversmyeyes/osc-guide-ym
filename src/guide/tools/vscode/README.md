@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Code
-icon: "fa-solid fa-code"
+icon: vscode-icons:file-type-vscode
 ---
 
 <Catalog />
