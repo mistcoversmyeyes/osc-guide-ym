@@ -22,6 +22,7 @@ summary: Install Visual Studio Code on Windows
     > [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
 
     点此前往VS Code官网，在下载中心，选择适合你的版本下载安装。这里推荐的是使用 `Installer` 而不是 `User Installer`，避免将VS Code安装在用户目录下。
+
     Vs Code安装包打包使用的是`Inno Setup`，支持静默参数`/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-`
 
 - 使用Windows包管理器[WinGet]安装
