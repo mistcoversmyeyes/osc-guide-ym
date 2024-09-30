@@ -27,6 +27,7 @@ MinGW 是一个 Windows 平台上的开发环境，它提供了一套兼容 POSI
 > - [MSYS2](https://www.msys2.org/)
 
 MSYS2 是一个类似于 Cygwin 的项目，它提供了一套类 Unix 的环境，可以在 Windows 上运行。MSYS2 项目提供了一个软件包管理器，可以方便地安装 MinGW-w64。安装指南参考[MSYS2](https://www.msys2.org/)。
+
 MSYS2可以接受CMD传递的参数，如`msys2.exe help`
 
 ### w64devkit
@@ -43,6 +44,7 @@ w64devkit is a **portable** C and C++ development kit for x64 (and x86) Windows.
 - 下载 `w64devkit` 的二进制包
 - 解压到你的目录下，例如 `C:\w64devkit`
 - 将 `C:\w64devkit\bin` 添加到你的[`环境变量`]中
+  
   可以使用CMD命令`setx /M path "%path%;C:\w64devkit\bin"`）
 - 打开命令行，输入 `gcc --version`，如果能看到版本信息，说明安装成功
 
