@@ -31,11 +31,7 @@ export default navbar([
     icon: "material-symbols:book",
     link: "/demo/",
   },
-  {
-    text: "OSC Lab",
-    icon: "fa-solid:laptop-code",
-    link: "https://lab.scutosc.cn",
-  },
+  "friend",
   {
     text: "DragonOS",
     icon: "fa-solid:project-diagram",

@@ -8,7 +8,7 @@ heroImage: /osc_home.png
 # bgImageStyle:
 #   background-attachment: fullscreen
 heroText: OSC Guide
-heroFullScreen: false
+heroFullScreen: true
 tagline: 由华工开源俱乐部，携手众学生，共同倾心打造的 CS 指南。从入门到进阶，不论应试、就业、科研，我们总以发展为导向。
 actions:
   - text: 开始阅读
@@ -20,27 +20,27 @@ actions:
     icon: fa-solid:edit
     link: ./demo/
 
-highlights:
-  - header: DragonOS 龙操作系统
-    image: https://bbs.dragonos.org.cn/uploads/default/original/1X/482f64f4f9678cf9de0504e4add3839dcaa75709.png
-    # link: https://dragonos.org/
-    # bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    # bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: Linux兼容性
-        icon: mdi:linux
-        details: 二进制兼容Linux。Linux软件能轻松迁移到DragonOS。<br />点击前往官网
-        link: https://dragonos.org/
+# highlights:
+#   - header: DragonOS 龙操作系统
+#     image: https://bbs.dragonos.org.cn/uploads/default/original/1X/482f64f4f9678cf9de0504e4add3839dcaa75709.png
+#     # link: https://dragonos.org/
+#     # bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+#     # bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+#     highlights:
+#       - title: Linux兼容性
+#         icon: mdi:linux
+#         details: 二进制兼容Linux。Linux软件能轻松迁移到DragonOS。<br />点击前往官网
+#         link: https://dragonos.org/
 
-      - title: Rust内核全国第2名
-        icon: mdi:language-rust
-        details: DragonOS使用Rust语言从0开始研发内核及用户态环境。按GitHub Star排序，位居全国第2名。<br />点击前往仓库
-        link: https://github.com/DragonOS-Community/DragonOS
+#       - title: Rust内核全国第2名
+#         icon: mdi:language-rust
+#         details: DragonOS使用Rust语言从0开始研发内核及用户态环境。按GitHub Star排序，位居全国第2名。<br />点击前往仓库
+#         link: https://github.com/DragonOS-Community/DragonOS
 
-      - title: 社区驱动开发
-        icon: fa-solid:users
-        details: DragonOS是一个社区驱动的项目，将始终坚持开源，开放包容的精神。<br />点击前往论坛
-        link: https://bbs.dragonos.org.cn/
+#       - title: 社区驱动开发
+#         icon: fa-solid:users
+#         details: DragonOS是一个社区驱动的项目，将始终坚持开源，开放包容的精神。<br />点击前往论坛
+#         link: https://bbs.dragonos.org.cn/
   
   # - header: 博客
   #   description: 通过主题创建个人博客
