@@ -4,3 +4,5 @@ icon: vscode-icons:file-type-cpp3
 ---
 
 <Catalog />
+
+<DiscourseComments />

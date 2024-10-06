@@ -43,3 +43,5 @@ b站视频购买链接：https://b23.tv/Ppq4Bsw
 > 搬运者注：loser homework是一个很有意思的项目，是一个C++的练习项目，里面有很多有趣的题目，可以帮助你提高C++编程能力。不过，大概只有我们loser才会专注于C++这些乱七八糟的东西吧。
 
 - https://github.com/Mq-b/Loser-HomeWork
+
+<DiscourseComments />
