@@ -63,17 +63,17 @@ python3 multi.py ##主要逻辑所在文件
 
 5. 如果对使用全局环境有担忧，可以尝试使用 [uv](https://docs.astral.sh/uv/)
 
-  在文件头部加入如下注释，指明 requirement 中的依赖项。
-
-  ```python
-  # /// script
-  # dependencies = [
-  #     "requests<3",
-  # ]
-  # ///
-  ```
-
-  安装 uv 后，使用`uv run <script.py>`运行即可，uv 会接管依赖管理的工作。
+    在文件头部加入如下注释，指明 requirement 中的依赖项。
+  
+    ```python
+    # /// script
+    # dependencies = [
+    #     "requests<3",
+    # ]
+    # ///
+    ```
+  
+    安装 uv 后，使用`uv run <script.py>`运行即可，uv 会接管依赖管理的工作。
 
 ::: tip
 现在，你可以放心的去做其他事情了~
