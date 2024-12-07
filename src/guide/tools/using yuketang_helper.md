@@ -63,7 +63,7 @@ python3 multi.py ##主要逻辑所在文件
 
 5. 如果对使用全局环境有担忧，可以尝试使用 [uv](https://docs.astral.sh/uv/)
 
-  在文件头部加入如下注释，指明 requiremen 中的依赖项。
+  在文件头部加入如下注释，指明 requirement 中的依赖项。
 
   ```python
   # /// script
