@@ -27,6 +27,11 @@ export default navbar([
     ],
   },
   {
+    text: "Hackathon",
+    icon: "fa-solid:code",
+    link: "https://work.scutosc.cn/s/dXiPbcmoC76srNG"
+  },
+  {
     text: "编写指南",
     icon: "material-symbols:book",
     link: "/demo/",
